@@ -18,6 +18,8 @@ modified: '2026-05-04'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/talenenergy
   - type: Website
     url: https://www.talenenergy.com
   - type: InvestorRelations
