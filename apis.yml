@@ -2,7 +2,7 @@ aid: talen-energy
 url: https://raw.githubusercontent.com/api-evangelist/talen-energy/refs/heads/main/apis.yml
 name: Talen Energy
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Energy
   - Power Generation
